@@ -1,7 +1,7 @@
-*/Binaries
-*/Build
-*/DerivedDataCache
-*/Intermediate
-*/Saved
+Binaries
+Build
+DerivedDataCache
+Intermediate
+Saved
 *.db
 Content/StarterContent/
